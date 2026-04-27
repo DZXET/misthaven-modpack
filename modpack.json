@@ -155,6 +155,10 @@
     {
       "version": "1.2.0",
       "text": "เพิ่มมอด immersive_melodies-0.6.0+1.20.1-forge.jar"
+    },
+    {
+      "version": "1.2.1",
+      "text": "แก้ไขบัคระบบ auto update"
     }
   ]
 }
