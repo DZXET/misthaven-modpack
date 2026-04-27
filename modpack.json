@@ -159,6 +159,10 @@
     {
       "version": "1.2.1",
       "text": "แก้ไขบัคระบบ auto update"
+    },
+    {
+      "version": "1.2.2",
+      "text": "แก้ไขระบบchangelogไม่แสดงผล"
     }
   ]
 }
