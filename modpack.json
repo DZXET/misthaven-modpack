@@ -166,7 +166,7 @@
     },
     {
       "version": "1.3.0",
-      "text": "Pre-Launch Checklist\nSmart RAM Validation\nNetwork Status Monitor\nLaunch History\nExport Debug Info\nKeyboard Shortcuts Skeleton Loading\nIPC Error Boundary\nCrash exit code alert"
+      "text": "Pre-Launch Checklist, Smart RAM Validation, Network Status Monitor, Launch History, Export Debug Info, Keyboard Shortcuts Skeleton Loading, IPC Error Boundary, Crash exit code alert"
     }
   ]
 }
