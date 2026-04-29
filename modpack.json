@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.2.0",
   "forgeVersion": "47.4.10",
   "serverHost": "51.79.181.225",
   "serverPort": "25571",
@@ -146,31 +146,11 @@
     },
     {
       "version": "1.1.1",
-      "text": "แก้ปัญหาความเข้ากันได้ของอุปกรณ์"
-    },
-    {
-      "version": "1.1.2",
       "text": "แก้บัคที่modบางตัว"
     },
     {
       "version": "1.2.0",
       "text": "เพิ่มมอด immersive_melodies-0.6.0+1.20.1-forge.jar"
-    },
-    {
-      "version": "1.2.1",
-      "text": "แก้ไขบัคระบบ auto update"
-    },
-    {
-      "version": "1.2.2",
-      "text": "แก้ไขระบบchangelogไม่แสดงผล"
-    },
-    {
-      "version": "1.3.0",
-      "text": "Pre-Launch Checklist, Smart RAM Validation, Network Status Monitor, Launch History, Export Debug Info, Keyboard Shortcuts Skeleton Loading, IPC Error Boundary, Crash exit code alert"
-    },
-    {
-      "version": "1.3.1",
-      "text": "เพิ่มระบบกันการเปิดminecraftซํ้าซ้อน"
     }
   ]
 }
